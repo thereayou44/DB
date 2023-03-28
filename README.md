@@ -6,7 +6,7 @@
 
 
 ![Концептуальная модель](https://github.com/thereayou44/DB_project/blob/main/concept_model.png "Концептуальная модель")
-![Логическая модель](https://github.com/thereayou44/DB_project/blob/main/logic.png "Логическая модель")
+![Логическая модель](https://github.com/thereayou44/DB_project/blob/main/logic_model.png "Логическая модель")
 
 После нормализации появились сущности "watch_history" и "rating_history". Первая для связи аниме и пользователя, а вторая для отслеживания изменение рейтинга.
 Почту и никнейм пользователя можно будет менять, поэтому их не сделал ключами, хоть они и уникальные.
